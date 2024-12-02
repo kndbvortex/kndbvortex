@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://www.datocms-assets.com/48294/1726576875-data-science-vs-web-development.webp?auto=format" height="300" /> 
-</p>
+
 
 <h1>Hi 👋, I'm ✨ Durande Kamga ✨</h1>
 <p>A passionate backend developer and machine learning enthousiast !!</p>
@@ -10,8 +8,9 @@
 <p>-👯 I’m looking to collaborate on machine learning and web development topics </p>
 <p>-📫 How to reach me: kamga.nixtinc@gmail.com</p>
 
+
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
+<p width="300px"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
@@ -33,8 +32,17 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kndbvortex&show_icons=true&locale=en" alt="kndbvortex" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kndbvortex&" alt="kndbvortex" /></p>
+
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kndbvortex&show_icons=true&locale=en" alt="kndbvortex" height="200" />
+  <img align="center"  src="https://www.datocms-assets.com/48294/1726576875-data-science-vs-web-development.webp?auto=format" height="200" width="35%" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kndbvortex/kndbvortex/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kndbvortex/kndbvortex/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kndbvortex&show_icons=true&locale=en&layout=compact" alt="kndbvortex" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kndbvortex" alt="kndbvortex" /></a></p>
+
 
