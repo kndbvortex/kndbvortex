@@ -1,7 +1,7 @@
 
 
 
-<h1>Hi 👋, I'm ✨ Durande Kamga ✨</h1>
+<h1>Hi  I'm Durande Kamga !</h1>
 <p>A passionate backend developer and machine learning enthousiast !!</p>
 
 <p>-🔭 I’m currently working on explainable AI for time series classification</p>
