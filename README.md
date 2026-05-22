@@ -81,12 +81,16 @@
 [![kndbvortex stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kndbvortex&show_icons=true&theme=dark)](https://github.com/kndbvortex)
 
 [![top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kndbvortex&layout=compact&theme=dark)](https://github.com/kndbvortex)
+
+<h2>Activities</h2>
+<p width="300px">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kndbvortex/kndbvortex/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kndbvortex/kndbvortex/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kndbvortex&show_icons=true&locale=en&layout=compact" alt="kndbvortex" /></p>
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kndbvortex" alt="kndbvortex" /></a></p>
 
 
