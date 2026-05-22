@@ -21,7 +21,7 @@
 <a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42"/></a>
 <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="42" height="42"/></a>
 <a href="https://www.aeon-toolkit.org/"><img src="https://www.aeon-toolkit.org/en/stable/_static/aeon-logo-blue-2-compact.png" alt="aeon" width="42" height="42"/></a>
-<a href="https://facebook.github.io/prophet/"><img src="https://facebook.github.io/prophet/static/wordmark.svg" alt="prophet"width="84" height="42"/></a>
+<a href="https://facebook.github.io/prophet/"><img src="https://github.com/user-attachments/assets/869cff3a-4615-4825-8d63-fc3a6461c5c5" alt="prophet"width="84" height="42"/></a>
 <a href="https://captum.ai/"><img src="https://captum.ai/img/captum_logo.svg" alt="captum" width="42" height="42"/></a>
 <a href="https://shap.readthedocs.io/"><img src="https://shap.readthedocs.io/en/latest/_static/shap_logo_white.png" alt="shap" width="84" height="42"/></a>
 <a href="https://github.com/fzi-forschungszentrum-informatik/TSInterpret"><img src="https://github.com/fzi-forschungszentrum-informatik/TSInterpret/raw/main/docs/img/logo.png" alt="TSInterpret" width="42" height="42"/></a>
@@ -72,7 +72,7 @@
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/></a>
 <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="42" height="42"/></a>
 <a href="https://hadoop.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="42" height="42"/></a>
 
 <h2>Stats</h2>
